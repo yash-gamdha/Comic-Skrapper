@@ -1,0 +1,7 @@
+TEAM_ID=
+
+PRODUCT_NAME=ComicSkrapper
+PRODUCT_BUNDLE_IDENTIFIER=org.yash_gamdha.comic_skrapper.ComicSkrapper$(TEAM_ID)
+
+CURRENT_PROJECT_VERSION=1
+MARKETING_VERSION=1.0
